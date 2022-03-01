@@ -1,2 +1,3 @@
-# aula_bootstrap
-DIO - Projeto utilizando Bootstrap
+# Página Web 📄
+
+DIO - Projeto de criação de página web utilizando Bootstrap e HTML5
